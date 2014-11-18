@@ -3,11 +3,11 @@ phalconphp-completions
 
 A ton of completions for [Phalcon PHP](http://phalconphp.com/en/) 1.3.\*. There are **340** total right now. This is pretty much a copy-paste from my [sublime-node-snippets](https://github.com/james2doyle/sublime-node-snippets) repo.
 
+![testing example](https://raw.githubusercontent.com/james2doyle/phalconphp-completions/master/testing.gif)
+
 ## Installing
 
 Drop this folder in your Sublime Text packages directory.
-
----
 
 #### Package Control
 
@@ -23,13 +23,13 @@ Just look for `phalconphp-completions` on [Package Control](https://sublime.wbon
 * press enter on "phalconphp-completions"
 * watch it install
 
----
-
 ## Using
 
 Pressing `\` (forward slash) or `:` will end the snippet lookup.
 
 You will have better results if you pretend the slashes and colons aren't needed. So if you are looking for `Phalcon\Text::increment`, you would type `phalcontextincrement` and you would see the results coming up.
+
+*See the GIF above!*
 
 ## Building
 
