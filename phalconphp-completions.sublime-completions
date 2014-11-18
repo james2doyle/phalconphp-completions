@@ -4,7 +4,7 @@
   ],
 
   "completions": [
-	{ "trigger": "\\Phalcon\\Mvc\\Model\\Migration", "contents": "\\Phalcon\\Mvc\\Model\\Migration;${0}" },
+	{ "trigger": "Phalcon\\Mvc\\Model\\Migration", "contents": "Phalcon\\Mvc\\Model\\Migration;${0}" },
 	{ "trigger": "Phalcon\\Acl", "contents": "Phalcon\\Acl;${0}" },
 	{ "trigger": "Phalcon\\Acl\\Adapter", "contents": "Phalcon\\Acl\\Adapter;${0}" },
 	{ "trigger": "Phalcon\\Acl\\Adapter\\Memory", "contents": "Phalcon\\Acl\\Adapter\\Memory;${0}" },

@@ -1,5 +1,5 @@
 # devtools classes
-\Phalcon\Mvc\Model\Migration
+Phalcon\Mvc\Model\Migration
 # classes and interfaces
 Phalcon\Acl
 Phalcon\Acl\Adapter
