@@ -1,7 +1,7 @@
 phalconphp-completions
 ======================
 
-A ton of completions for [Phalcon PHP](http://phalconphp.com/en/) 1.3.\*. There are **340** total right now. This is pretty much a copy-paste from my [sublime-node-snippets](https://github.com/james2doyle/sublime-node-snippets) repo.
+A ton of completions for [Phalcon PHP](http://phalconphp.com/en/) 1.3.\*. There are **414** total right now. This is pretty much a copy-paste from my [sublime-node-snippets](https://github.com/james2doyle/sublime-node-snippets) repo.
 
 ![testing example](https://raw.githubusercontent.com/james2doyle/phalconphp-completions/master/testing.gif)
 
