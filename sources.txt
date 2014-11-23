@@ -228,6 +228,45 @@ Phalcon\Session\Adapter\Files
 Phalcon\Session\Bag
 Phalcon\Session\Exception
 Phalcon\Tag
+Phalcon\Tag::setDefault($field, $value);
+Phalcon\Tag::setDefaults($array);
+Phalcon\Tag::linkTo($href, $text);
+Phalcon\Tag::textField($name)
+Phalcon\Tag::passwordField($name)
+Phalcon\Tag::hiddenField($name)
+Phalcon\Tag::fileField($name)
+Phalcon\Tag::checkField($name)
+Phalcon\Tag::radioField($name)
+Phalcon\Tag::rangeField($name)
+Phalcon\Tag::dateField($name)
+Phalcon\Tag::dateTimeLocalField($name)
+Phalcon\Tag::monthField($name)
+Phalcon\Tag::timeField($name)
+Phalcon\Tag::weekField($name)
+Phalcon\Tag::emailField($name)
+Phalcon\Tag::colorField($name)
+Phalcon\Tag::searchField($name)
+Phalcon\Tag::telField($name)
+Phalcon\Tag::urlField($name)
+Phalcon\Tag::numberField($name)
+Phalcon\Tag::submitButton($value)
+Phalcon\Tag::selectStatic($name, $values)
+Phalcon\Tag::select(array($name, $modelquery, $data)
+Phalcon\Tag::textArea($name)
+Phalcon\Tag::form($url)
+Phalcon\Tag::endForm
+Phalcon\Tag::appendTitle($title)
+Phalcon\Tag::prependTitle($title)
+Phalcon\Tag::getTitle
+Phalcon\Tag::setTitle($value)
+Phalcon\Tag::getTitleSeparator
+Phalcon\Tag::setTitleSeparator($character)
+Phalcon\Tag::stylesheetLink($url, $local)
+Phalcon\Tag::javascriptInclude($url, $local)
+Phalcon\Tag::image($src)
+Phalcon\Tag::friendlyTitle($value, $separator, $lowercase)
+Phalcon\Tag::tagHtml($name, $parameters, $selfClose, $onlyStart, $eol)
+Phalcon\Tag::tagHtmlClose($tag, $selfClose)
 Phalcon\Tag\Exception
 Phalcon\Tag\Select
 Phalcon\Text
