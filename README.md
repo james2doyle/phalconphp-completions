@@ -25,7 +25,7 @@ Just look for `phalconphp-completions` on [Package Control](https://sublime.wbon
 
 ## Using
 
-Pressing `\` (forward slash) or `:` will end the snippet lookup.
+Pressing `\` (backslash) or `:` will end the snippet lookup.
 
 You will have better results if you pretend the slashes and colons aren't needed. So if you are looking for `Phalcon\Text::increment`, you would type `phalcontextincrement` and you would see the results coming up.
 
