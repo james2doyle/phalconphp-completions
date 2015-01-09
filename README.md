@@ -79,7 +79,7 @@ Just add (or edit) a line in the source file. Then run `node build.js` to genera
 
 **The MIT License**
 
-Copyright (c) 2014 [James Doyle](http://twitter.com/james2doyle) james2doyle@gmail.com
+Copyright (c) 2015 [James Doyle](http://twitter.com/james2doyle) james2doyle@gmail.com
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
