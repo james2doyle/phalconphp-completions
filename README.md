@@ -11,7 +11,7 @@ Drop this folder in your Sublime Text packages directory.
 
 #### Package Control
 
-Just look for `phalconphp-completions` on [Package Control](https://sublime.wbond.net/packages/Node%20Completions). It is called "Node Completions" on the site, but comes up as "phalconphp-completions".
+Just look for `phalconphp-completions` on [Package Control](https://packagecontrol.io/packages/PhalconPHP%20Completions). It is called "Node Completions" on the site, but comes up as "phalconphp-completions".
 
 #### Manual
 
